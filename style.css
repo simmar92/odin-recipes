@@ -1,0 +1,30 @@
+.head {
+padding: 10px;
+border: 10px chartreuse;
+margin-bottom: 10px;
+text-align: center;
+width: auto;
+height: auto;
+color: #000;
+font-size: 4rem;
+font-weight: 700;
+
+letter-spacing: 2px;
+}
+
+body {
+
+background: url(https://media.istockphoto.com/id/470141446/hu/vektor/receptk%C3%B6nyv-vektor-k%C3%A1rtya.jpg?s=2048x2048&w=is&k=20&c=7AwQIFuz30k3RYWBa6dPyIuLTKsgF2ppVijBEkoDVTQ=), lightgray 50% ;
+
+}
+
+.index-list {
+background-color: rgba(127, 255, 212, 0.62);
+width: 100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+font-size: 3rem;
+
+}
+
